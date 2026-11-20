@@ -1,0 +1,9 @@
+**
+!Dockerfile
+!nginx.conf
+!src/
+!src/**
+!app/
+!app/**
+**/.DS_Store
+**/__pycache__
